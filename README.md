@@ -6,7 +6,7 @@ Return true if the array contains the value, false if not.
 [Task link](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
 
 #### Solution:
-'''
+```
 public class Solution {
 
     public static boolean check(Object[] array, Object value) {
@@ -17,7 +17,7 @@ public class Solution {
     }
 
 }
-'''
+```
 
 #### Fav solution:
 ```
